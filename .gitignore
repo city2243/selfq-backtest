@@ -1,0 +1,5 @@
+PASSWORD*
+*.bin
+dist/
+plain*.html
+shots/
